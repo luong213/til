@@ -1,6 +1,8 @@
 ---
+layout: default
 title: Home
-layout: home
+nav_order: 1
+permalink: til/
 ---
 # TABLE OF CONTENTS
 - [HTML] ({% link html/html.md %})
