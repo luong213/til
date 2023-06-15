@@ -2,7 +2,10 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-them
 title: Today I Learn
+permalink: pretty
 url: https://luong213.github.io
+exclude:
+- README.md
 search_enabled: false
 footer_content: "Copyright &copy; 2023 Luong Vu"
 gh_edit_link: false
