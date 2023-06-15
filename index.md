@@ -5,8 +5,8 @@ nav_order: 1
 permalink: /
 ---
 # TABLE OF CONTENTS
-* [HTML] ({% link html/index.md %})
-* [CSS] (css/index.md)
+* [HTML]({% link html/index.md %})
+* [CSS](css/index.md)
 * [JavaScript]
 * [JQuery]
 * Updating ...
