@@ -5,7 +5,8 @@ nav_order: 2
 ---
 # TABLE OF CONTENTS
 
-    * [TAG](#TAG)
+* [TAG](#TAG)
+
 
 ## TAG
 
