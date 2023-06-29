@@ -5,12 +5,27 @@ nav_order: 2
 ---
 # TABLE OF CONTENTS
 
-* [TAG](#TAG)
+* [Basic HTML Elements](#Basic)
+* [Formatting HTML Elements](#Formatting)
 
-
-## TAG
-
-### 0.HTML cheat sheet
+## HTML cheat sheet
 
 ![](html-cheat-sheet.png)
 
+## Basic
+
+### Tag \<body>
+
+Sample
+```
+<html>
+<head>
+  <title>Here goes the title of the document</title>
+</head>
+<body>
+  Here goes the content of the document......
+</body>
+</html>
+```
+
+## Formatting
