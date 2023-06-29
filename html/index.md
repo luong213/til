@@ -4,24 +4,24 @@ title: Learn HTML
 nav_order: 2
 ---
 
+# HTML cheat sheet
+
+{: .no_toc }
+
+![](html-cheat-sheet.png)
+
 ## TABLE OF CONTENTS
 
 {: .no_toc .text-delta }
 
-* TOC
+- TOC
 {:toc}
-
-## HTML cheat sheet
-
-{: .no_toc}
-
-![](html-cheat-sheet.png)
 
 ## Basic HTML Elements
 
 ### Tag \<body>
 
-{: .no_toc}
+{: .no_toc }
 
 Main content of the document. The HTML `<body>` element represents the content of an HTML document. There can be only one `<body>` element in a document.
 
