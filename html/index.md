@@ -4,18 +4,17 @@ title: Learn HTML
 nav_order: 2
 ---
 
-# HTML cheat sheet
+# TABLE OF CONTENTS
+
+{: .no_toc .text-delta }
+
+{:toc}
+
+## HTML cheat sheet
 
 {: .no_toc }
 
 ![](html-cheat-sheet.png)
-
-## TABLE OF CONTENTS
-
-{: .no_toc .text-delta }
-
-- TOC
-{:toc}
 
 ## Basic HTML Elements
 
