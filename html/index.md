@@ -4,9 +4,7 @@ title: Learn HTML
 nav_order: 2
 ---
 
-# TABLE OF CONTENTS
-
-{: .no_toc .text-delta }
+## Table of contents
 
 - TOC
 {:toc}
